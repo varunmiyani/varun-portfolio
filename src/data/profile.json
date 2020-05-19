@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "type": "list",
+            "title": "Summary",
+            "data": [
+                "Having 3 years of experience in full stack development",
+                "currently working on ReactJS for making displays and NodeJS (Express) for creating REST API’s",
+                "I am self-motivated and self-taught professional who likes to solve problems"
+            ]
+        },
+        {
+            "type": "list",
+            "title": "Experiance",
+            "data": [
+                "Designation: Full Stack Developer",
+                "Duration: Feb 2017 - Present",
+                "Company: SPINTeQ",
+                "Role & Responsibility: Attending client meetings, requirement analysis, design & development of web & android applications, creating REST API’s, deployment of application on play store or azure"
+            ]
+        },
+        {
+            "type": "rating",
+            "title": "Experiance",
+            "data": [
+                {"name": "HTML/CSS", "rating": 5},
+                {"name": "PHP", "rating": 5},
+                {"name": "JavaScript", "rating": 5},
+                {"name": "React.js", "rating": 4},
+                {"name": "Express.js", "rating": 4},
+                {"name": "Node.js", "rating": 4}
+            ]
+        },
+        {
+            "type": "list",
+            "title": "Tools",
+            "data": [
+                "MCA: Master of Computer Application under VTU in 2017 Mangalore with an aggregate of 73.76%",
+                "BCA: Shree Devi College of Information Science under Mangalore University in 2014 with an aggregate of 71.24%"
+            ]
+        },
+        {
+            "type": "list",
+            "title": "Certificates",
+            "data": [
+                "JavaScript - The Complete Guide 2020 (Beginner + Advanced) (Udemy)",
+                "React - The Complete Guide (Incl Hooks, React Router, Redux) (Udemy)",
+                "1st place in Web Designing event held at JNNC, Shimoga",
+                "1st place in Web Designing event held at Maharaja institute of Technology, Mysore",
+                "2nd place in Web Designing event held at Manpial Institute of Technology, Manipal",
+                "2nd place in Web Designing event held at NMAM Institute of Technology, Nitte",
+                "2nd place in Code Hunt event held at Manipal Institute of Technology, Manipal",
+                "1st place in Gaming event held at AIMIT, Beeri",
+                "1st place in Gaming event held at NMAM Institute of Technology, Nitte",
+                "2nd place in Gaming event held at Mangalore University, Mangalagangothri"
+            ]
+        }
+    ]
+}
